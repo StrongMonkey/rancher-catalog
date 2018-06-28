@@ -2,6 +2,7 @@
   name: Cloud9
   description: |
     (Experimental) Cloud 9 SDK 
-  version: v0.0.1
+  version: 3.0-rancher1
+  minimum_rancher_version: v1.0.0
   maintainer: "Raul Sanchez <rawmind@gmail.com>"
   uuid: cloud9-0
