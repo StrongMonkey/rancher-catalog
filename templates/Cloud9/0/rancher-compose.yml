@@ -1,0 +1,7 @@
+.catalog:
+  name: Cloud9
+  description: |
+    (Experimental) Cloud 9 SDK 
+  version: v0.0.1
+  maintainer: "Raul Sanchez <rawmind@gmail.com>"
+  uuid: cloud9-0
